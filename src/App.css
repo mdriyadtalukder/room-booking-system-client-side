@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div#slide1,div#slide2,div#slide3{
+  height: 50% !important;
+}
+.p1{
+  padding: 25px;
+}
+#cardid{
+  width: 80% !important;
+  margin: auto;
+}
+#p2,#p3,#p4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#forms,table{
+  width: 80% !important;
+  margin: auto;
+}
+#frm{
+  width: 50% !important;
+  margin: auto;
+}
+#cd{
+  width: 80% !important;
+  margin: auto;
+}
+
